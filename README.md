@@ -1,6 +1,6 @@
 # Hi there, I'm Dipesh Kumar Bhandari 👋
 
-Welcome to my GitHub profile! I am a passionate and driven Computer Science student with a deep interest in Data Science and Full-Stack Development. I enjoy working on projects that allow me to learn and contribute to innovative solutions in the tech field.
+Welcome to my GitHub profile! I am a passionate and driven Computer Science student with a deep interest in Data Science and Front end development. I enjoy working on projects that allow me to learn and contribute to innovative solutions in the tech field.
 
 ## 🚀 About Me
 I am currently pursuing a Bachelor's degree in BSc.CSIT at Rajarshi Janak University. I am always eager to expand my skills and knowledge through hands-on experiences, and I strive to stay up-to-date with the latest trends in technology.
@@ -11,16 +11,19 @@ I am currently pursuing a Bachelor's degree in BSc.CSIT at Rajarshi Janak Univer
 
 ### Certifications
 - **Meta Front-End Development** - Online Certification
-- **Python Internship** - Completed a practical internship with a focus on Python programming
+- **Data Science** - This certification has equipped me with the skills to analyze complex data, build predictive models, and extract valuable insights for data-driven decision-making.
 
-### Internship Experience
-- **UniNote Hub**: Developed a website for UniNote Hub, showcasing my skills in full-stack development using modern web technologies.
+
+### project
+- **Tiered project on Titanic Data Set**: In this project, I applied machine learning techniques to predict passenger survival on the Titanic based on features like age, sex, class, and ticket information. Using the Titanic dataset from Kaggle, I performed data preprocessing, exploratory data analysis (EDA), and built predictive models, including Logistic Regression, Random Forest, and Support Vector Machines (SVM). The project demonstrated my ability to handle missing data, engineer features, and evaluate models using accuracy and cross-validation. The goal was to build a model that could predict the likelihood of survival for passengers based on historical data.
+
+
 
 ### Skills
 - **Programming Languages**: Python, JavaScript, HTML/CSS
 - **Data Science**: Data Analysis, Machine Learning, Data Visualization
-- **Web Development**: Front-End (React, HTML, CSS), Back-End (Node.js, Express)
-- **Tools & Technologies**: Git, GitHub, Jupyter Notebook, VS Code, MySQL, MongoDB
+- **Web Development**: Front-End ( HTML, CSS)
+- **Tools & Technologies**: Git, GitHub, Jupyter Notebook, VS Code, MySQL,
 - **Soft Skills**: Problem-solving, communication, teamwork, time management
 
 ### Interests
