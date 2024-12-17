@@ -15,7 +15,7 @@ I am currently pursuing a Bachelor's degree in BSc.CSIT at Rajarshi Janak Univer
 
 
 ### project
-- **Tiered project on Titanic Data Set**: In this project, I applied machine learning techniques to predict passenger survival on the Titanic based on features like age, sex, class, and ticket information. Using the Titanic dataset from Kaggle, I performed data preprocessing, exploratory data analysis (EDA), and built predictive models, including Logistic Regression, Random Forest, and Support Vector Machines (SVM). The project demonstrated my ability to handle missing data, engineer features, and evaluate models using accuracy and cross-validation. The goal was to build a model that could predict the likelihood of survival for passengers based on historical data.
+- **Tiered project on Titanic Data Set** (Link:https://github.com/Dipesh360-wq/Titanic-Project.git): In this project, I applied machine learning techniques to predict passenger survival on the Titanic based on features like age, sex, class, and ticket information. Using the Titanic dataset from Kaggle, I performed data preprocessing, exploratory data analysis (EDA), and built predictive models, including Logistic Regression, Random Forest, and Support Vector Machines (SVM). The project demonstrated my ability to handle missing data, engineer features, and evaluate models using accuracy and cross-validation. The goal was to build a model that could predict the likelihood of survival for passengers based on historical data.
 
 
 
@@ -36,8 +36,8 @@ I am currently pursuing a Bachelor's degree in BSc.CSIT at Rajarshi Janak Univer
 - **International Sustainable Development Research Conference (ISDRS) 2024**: Participated in the conference held in Kathmandu, Nepal, focusing on sustainable development research.
 
 ## 📫 How to Reach Me
-- **Email**: dipeshbhandari@example.com (Replace with your actual email)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dipeshbhandari) 
+- **Email**: dipeshbhandari708@gmail.com
+- **LinkedIn**:linkedin.com/in/dipesh-bhandari-5593b5296 
 Feel free to explore my repositories and connect with me for any collaboration or open-source contributions. I am always open to new ideas and opportunities in the field of Data Science!
 
 ---
