@@ -37,8 +37,7 @@ I am currently pursuing a Bachelor's degree in BSc.CSIT at Rajarshi Janak Univer
 
 ## 📫 How to Reach Me
 - **Email**: dipeshbhandari@example.com (Replace with your actual email)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dipeshbhandari) (Replace with your LinkedIn URL)
-
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dipeshbhandari) 
 Feel free to explore my repositories and connect with me for any collaboration or open-source contributions. I am always open to new ideas and opportunities in the field of Data Science!
 
 ---
